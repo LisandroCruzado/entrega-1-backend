@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "title": "Webcam",
+        "description": "Resolucion 4k",
+        "code": 355,
+        "price": 1,
+        "status": true,
+        "stock": 1,
+        "category": "Smartphone",
+        "thumbnail": "array",
+        "id": "AhpjRtKMWd"
+    },
+    {
+        "title": "Monitor",
+        "description": "Perez",
+        "code": 35,
+        "price": 1,
+        "status": true,
+        "stock": 1,
+        "category": "Smartphone",
+        "thumbnail": "array",
+        "id": "UenK"
+    }
+]
